@@ -22,6 +22,7 @@ This project is part of the asignature of Explora English at the National Univer
   
 ![](/images/imagerandomwalk.png)
 [You can see the whole code here](/Codes/Random_Walk1.py)
+
 ---
 # [Synopsis: Evacuation Modeling Trends: Basic Concepts and Modelling Methods - Enrico Ronchi and Daniel Nilsson](https://www.springer.com/gp/book/9783319207070)
 
