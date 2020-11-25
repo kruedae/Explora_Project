@@ -18,6 +18,7 @@ This article is a review of the principal concepts related with simulations and 
 
 The ease and clarity with which the content is presented, added to the good production make this video ideal to introduce those interested to the area of simulation. As an aggregate, I would recommend all the series of videos about Python. Like the video, these lessons are seven or eight minutes and have the essential points for introducing any person to this language with which we can make more complex simulations later.
 ![](/images/imagerandomwalk.png)
+
 [You can see the whole code here](/Codes/Random_Walk1.py)
 
 # [Synopsis: Evacuation Modeling Trends: Basic Concepts and Modelling Methods - Enrico Ronchi and Daniel Nilsson](https://www.springer.com/gp/book/9783319207070)
