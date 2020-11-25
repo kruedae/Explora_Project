@@ -2,7 +2,7 @@
 - Kennet Julian Rueda Espinosa
 - Undergraduate program: Physics (Computer science)
 - Explora UN Mundo - Group 3
-- Profesor: Andres Mican
+- Professor: Andres Mican
 - 2020-2
 ## About the project
 This project is part of the asignature of Explora English at the National University of Colombia. I selected 6 documents between videos, books and articles which i think, are informative and useful for persons interested in simulations and modeling. I wrote a brief review or synopsis of each document. Also, i attached some simple simulations that i have make it for ilustrate part of the content. I hope you enjoy it.
