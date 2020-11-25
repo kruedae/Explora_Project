@@ -1,6 +1,6 @@
 # Portafolio: Simulation of physical and not physicial systems
 - Kennet Julian Rueda Espinosa
-- Physics
+- Undergraduate program: Physics (Computer science)
 - Explora UN Mundo - Group 3
 - Profesor: Andres Mican
 - 2020-2
